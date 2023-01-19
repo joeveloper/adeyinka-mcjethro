@@ -38,3 +38,15 @@ li {
     text-decoration: none;
 }
 
+.video {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#video {
+    /* position: absolute; */
+    width: 50%;
+}
